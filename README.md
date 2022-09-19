@@ -1,7 +1,7 @@
 😄 Bem-vindo ao meu repositório!!
 
 
-🧑🏻‍💻 Sou estudante do segundo semestre de Análise e Desenvolvimento de Sistemas. Atualmente estou focado na parte de desenvolvimento Front End, realizando projetos dos cursos que estou fazendo.
+🧑🏻‍💻 Sou estudante do segundo semestre de Análise e Desenvolvimento de Sistemas. Atualmente estou focado na parte de desenvolvimento de software, realizando projetos dos cursos que estou fazendo.
 
 👤 Soft Skills:
 
