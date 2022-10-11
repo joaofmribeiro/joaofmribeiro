@@ -13,8 +13,12 @@
 
 🕹 Hard Skills:
 
-- Html e Css;
-- Java (básico);
+- HTML5;
+- CSS3;
+- Java/Spring Boot;
+- JavaScript;
+- SQL(Server, APEX);
+- Postman;
 - Metodologias Ágeis (Scrum, Kanban, Lean);
 
 <!---
